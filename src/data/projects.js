@@ -1,0 +1,107 @@
+// src/data/projects.js
+export const projectsData = [
+    {
+      id: 1,
+      title: "Neo Cyberpunk UI Kit",
+      description: "A futuristic UI component library built with Vue.js and Tailwind CSS, inspired by cyberpunk aesthetics.",
+      image: "/img/projects/project1.jpg",
+      category: "frontend",
+      tags: ["vue", "tailwind", "ui-design"],
+      githubLink: "https://github.com/username/neo-cyberpunk-ui",
+      demoLink: "https://neo-cyberpunk-ui.vercel.app",
+      date: "2024-02-15",
+      featured: true,
+      rarity: "legendary"
+    },
+    {
+      id: 2,
+      title: "Quantum Task Manager",
+      description: "A task management application with advanced sorting algorithms and AI-powered prioritization.",
+      image: "/img/projects/project2.jpg",
+      category: "fullstack",
+      tags: ["vue", "django", "python", "api"],
+      githubLink: "https://github.com/username/quantum-task",
+      demoLink: "https://quantum-task.vercel.app",
+      date: "2023-11-05",
+      featured: true,
+      rarity: "epic"
+    },
+    {
+      id: 3,
+      title: "Digital Art Portfolio",
+      description: "A showcase platform for digital artists with advanced filtering and animation effects.",
+      image: "/img/projects/project3.jpg",
+      category: "frontend",
+      tags: ["vue", "gsap", "animation"],
+      githubLink: "https://github.com/username/digital-art-portfolio",
+      demoLink: "https://art-portfolio-demo.vercel.app",
+      date: "2023-09-20",
+      featured: false,
+      rarity: "rare"
+    },
+    {
+      id: 4,
+      title: "API Integration Framework",
+      description: "A lightweight framework for seamless integration with multiple third-party APIs with authentication handling.",
+      image: "/img/projects/project4.jpg",
+      category: "backend",
+      tags: ["python", "django", "api"],
+      githubLink: "https://github.com/username/api-framework",
+      demoLink: null,
+      date: "2023-07-12",
+      featured: false,
+      rarity: "normal"
+    },
+    {
+      id: 5,
+      title: "Neon Dreams Photography",
+      description: "A photography portfolio website with advanced image processing and creative transitions.",
+      image: "/img/projects/project1.jpg",
+      category: "frontend",
+      tags: ["vue", "animation", "ui-design"],
+      githubLink: "https://github.com/username/neon-dreams",
+      demoLink: "https://neon-dreams.vercel.app",
+      date: "2023-05-30",
+      featured: true,
+      rarity: "epic"
+    },
+    {
+      id: 6,
+      title: "DevOps Automation Toolkit",
+      description: "A collection of scripts and tools for automating development workflows and deployments.",
+      image: "/img/projects/project2.jpg",
+      category: "devops",
+      tags: ["python", "shell", "automation"],
+      githubLink: "https://github.com/username/devops-toolkit",
+      demoLink: null,
+      date: "2023-03-18",
+      featured: false,
+      rarity: "rare"
+    },
+    {
+      id: 7,
+      title: "Interactive Data Visualizer",
+      description: "A data visualization tool that transforms complex datasets into interactive and insightful visual representations.",
+      image: "/img/projects/project3.jpg",
+      category: "dataviz",
+      tags: ["vue", "d3", "data-analysis"],
+      githubLink: "https://github.com/username/data-viz",
+      demoLink: "https://interactive-data-viz.vercel.app",
+      date: "2023-01-25",
+      featured: true,
+      rarity: "legendary"
+    },
+    {
+      id: 8,
+      title: "Community Forum Platform",
+      description: "A modern forum platform with real-time discussions, user authentication, and content moderation.",
+      image: "/img/projects/project4.jpg",
+      category: "fullstack",
+      tags: ["vue", "django", "python", "websockets"],
+      githubLink: "https://github.com/username/community-forum",
+      demoLink: "https://forum-demo.vercel.app",
+      date: "2022-11-10",
+      featured: false,
+      rarity: "epic"
+    }
+  ];
