@@ -5,7 +5,7 @@
         <div class="max-w-4xl mx-auto text-center">
           <h2 class="text-3xl md:text-4xl font-bold mb-6">Desarrollando confianza a través del <span class="text-secondary">código</span></h2>
           <p class="text-lg text-dark-600 dark:text-dark-300 mb-10 max-w-2xl mx-auto">
-            Ingeniero en Sistemas con experiencia en desarrollo web y administración de infraestructuras. Especializado en Python (Django), 
+            Soy un Ingeniero en Sistemas con experiencia en desarrollo web y administración de infraestructuras TI. Especializado en Python (Django), 
             JavaScript (Vue.js, Nuxt.js, React) y bases de datos relacionales (PostgreSQL, MySQL), he desarrollado proyectos como RecetarioFusionado y Vehiculostrack.online,
              entregando soluciones seguras, escalables y orientadas al usuario. Además, desempeño funciones de administrador de sistemas, 
              integrando buenas prácticas de ciberseguridad y metodologías ágiles para maximizar 

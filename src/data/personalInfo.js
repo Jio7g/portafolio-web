@@ -30,9 +30,9 @@ export const personalInfo = {
       {
         title: "Administrador de Sistemas",
         company: "Corporación El Obrero",
-        period: "Enero 2025 – Actualidad",
+        period: "Agosto 2022 – Actualidad",
         type: "Diario",
-        description: "Responsable de la gestión de la infraestructura de servidores Linux y Windows, configuración y mantenimiento de telefonía IP, aplicación de políticas de ciberseguridad y automatización de tareas administrativas para garantizar la continuidad operativa."
+        description: "Responsable de la gestión de la infraestructura de servidores Linux y Windows, configuración y mantenimiento de telefonía IP, aplicación de políticas de ciberseguridad y automatización de tareas administrativas para garantizar la continuidad del negocio."
       }, 
       {
         title: "Desarrollador Full Stack & Freelancer",
